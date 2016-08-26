@@ -5,7 +5,7 @@
 
 int main(int argc, char const *argv[])
 {
-	int c;
+	char c;
 	
 	while ((c = getchar()) != EOF){
 		if (c == ' ' || c == '\t' || c == '\n') {
