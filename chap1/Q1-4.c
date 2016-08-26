@@ -1,6 +1,6 @@
 /********************************************
 Print table of celsius from 0-150 (step is 20)
-and corresponding celsius temperature.
+and corresponding fahr temperature.
 ********************************************/
 #include <stdio.h>
 
